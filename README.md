@@ -1,7 +1,7 @@
 # 311MLModel
 # LA #311 Dataset
 
-[P-ai's](https://www.p-ai.org/) #311 team is working with [Hack For LA](https://www.hackforla.org/#hack-nights) on the 311 Data Project. Mor information here: 
+[P-ai's](https://www.p-ai.org/) #311 team is working with [Hack For LA](https://www.hackforla.org/#hack-nights) on the 311 Data Project. More information here: 
 
 [Hack for LA 311 Data](https://www.hackforla.org/projects/311-data)
 
